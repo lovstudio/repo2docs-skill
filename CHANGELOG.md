@@ -18,4 +18,4 @@
 ## 0.1.0
 
 - Initial release: code repository → Fumadocs (Next.js) docs site under `/docs`,
-  deployed to `{product-id}.example.com/docs` via `sgc-deploy-to-vercel`.
+  deployed to `{product-id}.example.com/docs` via `lov-deploy-to-vercel`.
